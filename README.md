@@ -18,5 +18,5 @@ The convenient way to use it would be that you make it as an executable and use 
 
 - `sudo ln -s /Users/chhabra/temple/artifacts/garage/tts /usr/local/bin/tts`
 
-- ensure that /usr/local/bin/ in the $PATH
+- ensure that `/usr/local/bin/` is in the $PATH
 
